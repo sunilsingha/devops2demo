@@ -1,5 +1,5 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ns.devopsdemo.controller.View1" displayBlock="true">
-    <Page id="page" title="{i18n>Business Partner}">
+    <Page id="page" title="{i18n>Business Partner - v1.0.0}">
         <content>
             <List noDataText="Drop list items here" id="list0" items="{/BusinessPartnerSet}">
                 <items>
